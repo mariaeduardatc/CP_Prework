@@ -5,7 +5,7 @@ Prework for CodePath's Intro to Mobile App Development Course
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://g.recordit.co/9hWoSgtn3x.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
