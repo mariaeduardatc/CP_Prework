@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## Tapping
 
 ### App Description
 Prework for CodePath's Intro to Mobile App Development Course
